@@ -14,6 +14,3 @@ https://www.bilibili.com/read/cv743182
 在线车卡（并没有用excel车卡方便） https://quanbrew.github.io/chareets/
 
 一些很nice的跑团实况 https://www.bilibili.com/read/cv355756
-
-
-##### 在线编辑.md文件 https://stackedit.io/app#
