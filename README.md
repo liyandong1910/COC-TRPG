@@ -3,6 +3,8 @@
 
 说明及规则见文件“COC七版半自动人物卡v2.0.4（通用）”
 
+文件夹里面的“调查员核心规则书”也比较重要，推荐事先阅读
+
 ##  一些有用的链接
 克苏鲁跑团的简介 https://www.zhihu.com/question/39497334
 https://www.bilibili.com/read/cv743182
